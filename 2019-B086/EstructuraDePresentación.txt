@@ -1,0 +1,19 @@
+----- 5 minutos
+Introducción
+Conceptos teóricos
+Planteamiento del problema
+Justificación
+Objetivos (general/específico)
+Propuesta de solución
+Estado del arte
+----- end 5 minutos
+
+----- 15 minutos
+Metodología V (explicar cómo la estamos ocupando/empleando y cómo fuimos cumpliendo las actividades, (tt1))
+Análisis (mencionar tecnologías y herramientas que vamos a utilizar. hardware y software, sistema operativo y LEA (mencionar algoritmos que consideramos))
+Hablar de arquitectura (mencionar arquitectura grande)
+Diseño (arquitectura, mencionar módulos chicos aquí. hacer énfasis en módulos importantes, que es SPI)
+Pruebas (Prueba unitaria)
+Trabajo a futuro (tt2)
+Referencias
+----- end 15 minutos
